@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/XDYIuWmMqeEKmqEfEp/giphy.gif" width="100"/>
   
   <div id="badges">
-  <a href="https://www.linkedin.com/in/balqiskinanti/">
+  <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://balqiskinanti.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Website-purple?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
   </a>
-  <a href="https://open.spotify.com/playlist/2lCu3XR6qCUcWv0k59wGTV?si=51698e38573745fb">
+  <a href="">
     <img src="https://img.shields.io/badge/Spotify-darkgreen?style=for-the-badge&logo=spotify&logoColor=white" alt="Instagra, Badge"/>
   </a>
 </div>
@@ -21,10 +21,10 @@
 
 ---
 
-### :woman_technologist: About Me :
-- :telescope: I’m a final year student in the School of ICT, Ngee Ann Polytechnic Singapore. I aspire to be a Frontend Developer & Travel the world in the future.
+### About Me :
+- :telescope: coding teacher at timedoor academy. IT diploma & a former data analyst intern.
 
-- :zap: Listening to music, cozy movie nights, food adventures, memes, deep talks, make random projects. I'm a sucker for Keshi. I am also very loyal to Harry Potter and F.R.I.E.N.D.S. 
+- :zap: cat person, music, gym, a cafe enthusiast.
 
 ---
 
