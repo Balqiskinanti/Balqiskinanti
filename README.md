@@ -21,7 +21,7 @@
 ### About Me :
 - :telescope: Computer Science undergraduate student at Monash University, Australia. Ex-Data Analyst Intern at KrisShop, Singapore and Ex-Programming teacher at Timedoor Academy, Indonesia. 
 
-- :zap: I like to listen to music, watch FRIENDS, analyse dad jokes and memes, scroll through Pinterest and Instagram for ~inspiration~ and hang out with my loved ones. An introvert who yap once in a blue moon. Indonesian born, raised in Singapore. My goal is to travel: Italy, Japan, and Turkey. 
+- :zap: I like to listen to music, watch FRIENDS, analyse dad jokes and memes, scroll through Pinterest and Instagram for inspiration~ and hang out with my loved ones. An introvert who yap once in a blue moon. Indonesian born, raised in Singapore. My goal is to travel: Italy, Japan, and Turkey. 
 
 ---
 
