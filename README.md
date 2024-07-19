@@ -2,13 +2,10 @@
   <img src="https://media.giphy.com/media/XDYIuWmMqeEKmqEfEp/giphy.gif" width="100"/>
   
   <div id="badges">
-  <a href="">
+  <a href="https://www.linkedin.com/in/balqisk">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://balqiskinanti.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Website-purple?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
-  </a>
-  <a href="">
+  <a href="https://open.spotify.com/playlist/2lCu3XR6qCUcWv0k59wGTV?si=39f406af9b6042fd">
     <img src="https://img.shields.io/badge/Spotify-darkgreen?style=for-the-badge&logo=spotify&logoColor=white" alt="Instagra, Badge"/>
   </a>
 </div>
@@ -22,9 +19,9 @@
 ---
 
 ### About Me :
-- :telescope: coding teacher at timedoor academy. IT diploma & a former data analyst intern.
+- :telescope: Computer Science undergraduate student at Monash University, Australia. Ex-Data Analyst Intern at KrisShop, Singapore and Ex-Programming teacher at Timedoor Academy, Indonesia. 
 
-- :zap: cat person, music, gym, a cafe enthusiast.
+- :zap: I like to listen to music, watch FRIENDS, analyse dad jokes and memes, scroll through Pinterest and Instagram for ~inspiration~ and hang out with my loved ones. An introvert who yap once in a blue moon. Indonesian born, raised in Singapore. My goal is to travel: Italy, Japan, and Turkey. 
 
 ---
 
